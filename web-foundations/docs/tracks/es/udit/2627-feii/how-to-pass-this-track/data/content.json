@@ -6,10 +6,10 @@
 	"title": "Cómo aprobar Front-End II — UDIT 2026-27",
 	"slides": [
 		{
-			"content": "<h1>Cómo aprobar Front-End II</h1><h2>UDIT 2026-27 · Grado en Desarrollo Full-Stack</h2><p><strong>Rubén Vega Balbás, PhD</strong> · ruvebal@crea-comm.net</p><p><em>6 ECTS · 150 h totales · 30 h laboratorio · Semestral</em></p>"
+			"content": "<h1>Cómo aprobar Front-End II</h1><h2>UDIT 2026-27 · Grado en Desarrollo Full-Stack</h2><p><strong>Rubén Vega Balbás, PhD</strong> · ruben.vega@udit.es</p><p><em>6 ECTS · 150 h totales · 30 h laboratorio · Semestral</em></p>"
 		},
 		{
-			"content": "<h2>Información de la asignatura</h2><table><tr><th>Curso académico</th><td>2026-27</td></tr><tr><th>Semestre</th><td>Semestre 2 (asignatura anual)</td></tr><tr><th>ECTS</th><td>6</td></tr><tr><th>Profesor</th><td>Rubén Vega Balbás, PhD</td></tr><tr><th>Email</th><td>ruvebal@crea-comm.net</td></tr></table><p>Este documento detalla los entregables, pruebas de evaluación y requisitos para superar Front-End II. Las fechas de entrega pueden variar respecto a las fechas indicativas aquí mostradas.</p>"
+			"content": "<h2>Información de la asignatura</h2><table><tr><th>Curso académico</th><td>2026-27</td></tr><tr><th>Semestre</th><td>Semestre 2 (asignatura anual)</td></tr><tr><th>ECTS</th><td>6</td></tr><tr><th>Profesor</th><td>Rubén Vega Balbás, PhD</td></tr><tr><th>Email</th><td>ruben.vega@udit.es</td></tr></table><p>Este documento detalla los entregables, pruebas de evaluación y requisitos para superar Front-End II. Las fechas de entrega pueden variar respecto a las fechas indicativas aquí mostradas.</p>"
 		},
 		{
 			"content": "<h2>Estructura de evaluación</h2><table><tr><th>Componente</th><th>Peso</th></tr><tr><td>Pruebas</td><td class=\"weight-highlight\">30%</td></tr><tr><td>Trabajos, entregables y proyectos</td><td class=\"weight-highlight\">60%</td></tr><tr><td>Portafolio (resolución de problemas)</td><td class=\"weight-highlight\">10%</td></tr></table><p><strong>Total:</strong> 100% · <strong>Nota mínima de aprobado:</strong> 5,0 de media</p><p><em>Reconciliado con la guía docente y la fuente de evaluación de la Fase 3: Pruebas 30% / Trabajos 60% / Portafolio 10%.</em></p>"
@@ -55,7 +55,7 @@
 			"calendar_note": true
 		},
 		{
-			"content": "<h2>¿Preguntas?</h2><p>Para aclaraciones sobre entregables, criterios de evaluación o requisitos técnicos:</p><ul><li>Email: <a href=\"mailto:ruvebal@crea-comm.net\">ruvebal@crea-comm.net</a></li><li>Track del curso: <a href=\"{{ '/tracks/feii/' | relative_url }}\">/tracks/feii/</a></li><li>GitHub: repositorio del curso (proporcionado en clase)</li><li><strong>Rúbricas:</strong> <a href=\"{{ '/evaluation/shared/ai-declaration-oral-defence-rubric/' | relative_url }}\">Rúbrica de declaración de IA y defensa oral</a></li></ul><p><em>¡Mucha suerte — código crítico para una vida mejor!</em></p>"
+			"content": "<h2>¿Preguntas?</h2><p>Para aclaraciones sobre entregables, criterios de evaluación o requisitos técnicos:</p><ul><li>Email: <a href=\"mailto:ruben.vega@udit.es\">ruben.vega@udit.es</a></li><li>Track del curso: <a href=\"{{ '/tracks/feii/' | relative_url }}\">/tracks/feii/</a></li><li>GitHub: repositorio del curso (proporcionado en clase)</li><li><strong>Rúbricas:</strong> <a href=\"{{ '/evaluation/shared/ai-declaration-oral-defence-rubric/' | relative_url }}\">Rúbrica de declaración de IA y defensa oral</a></li></ul><p><em>¡Mucha suerte — código crítico para una vida mejor!</em></p>"
 		}
 	]
 }

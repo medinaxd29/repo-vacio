@@ -6,10 +6,10 @@
 	"title": "How to Pass Front-End II — UDIT 2026-27",
 	"slides": [
 		{
-			"content": "<h1>How to Pass Front-End II</h1><h2>UDIT 2026-27 · Grado en Desarrollo Full-Stack</h2><p><strong>Rubén Vega Balbás, PhD</strong> · ruvebal@crea-comm.net</p><p><em>6 ECTS · 150h total · 30h laboratory · Semester</em></p>"
+			"content": "<h1>How to Pass Front-End II</h1><h2>UDIT 2026-27 · Grado en Desarrollo Full-Stack</h2><p><strong>Rubén Vega Balbás, PhD</strong> · ruben.vega@udit.es</p><p><em>6 ECTS · 150h total · 30h laboratory · Semester</em></p>"
 		},
 		{
-			"content": "<h2>Course Information</h2><table><tr><th>Academic Year</th><td>2026-27</td></tr><tr><th>Semester</th><td>Semester 2 (annual course)</td></tr><tr><th>ECTS</th><td>6</td></tr><tr><th>Instructor</th><td>Rubén Vega Balbás, PhD</td></tr><tr><th>Email</th><td>ruvebal@crea-comm.net</td></tr></table><p>This document details the deliverables, evaluation tests, and requirements to successfully complete Front-End II. Delivery dates may vary from the indicative dates shown here.</p>"
+			"content": "<h2>Course Information</h2><table><tr><th>Academic Year</th><td>2026-27</td></tr><tr><th>Semester</th><td>Semester 2 (annual course)</td></tr><tr><th>ECTS</th><td>6</td></tr><tr><th>Instructor</th><td>Rubén Vega Balbás, PhD</td></tr><tr><th>Email</th><td>ruben.vega@udit.es</td></tr></table><p>This document details the deliverables, evaluation tests, and requirements to successfully complete Front-End II. Delivery dates may vary from the indicative dates shown here.</p>"
 		},
 		{
 			"content": "<h2>Evaluation Structure</h2><table><tr><th>Component</th><th>Weight</th></tr><tr><td>Pruebas (Tests)</td><td class=\"weight-highlight\">30%</td></tr><tr><td>Trabajos, entregables y proyectos (Projects)</td><td class=\"weight-highlight\">60%</td></tr><tr><td>Portafolio (Problem-solving portfolio)</td><td class=\"weight-highlight\">10%</td></tr></table><p><strong>Total:</strong> 100% · <strong>Pass threshold:</strong> 5.0 average</p><p><em>Reconciled with desarrollo-web-front-end-i-2025-2026.json and Phase 3 assessment source: Pruebas 30% / Trabajos 60% / Portafolio 10%.</em></p>"
@@ -55,7 +55,7 @@
 			"calendar_note": true
 		},
 		{
-			"content": "<h2>Questions?</h2><p>For clarification on deliverables, evaluation criteria, or technical requirements:</p><ul><li>Email: <a href=\"mailto:ruvebal@crea-comm.net\">ruvebal@crea-comm.net</a></li><li>Course track: <a href=\"{{ '/tracks/en/feii/' | relative_url }}\">/tracks/en/feii/</a></li><li>GitHub: Course repository (provided in class)</li><li><strong>Rubrics:</strong> <a href=\"{{ '/evaluation/shared/ai-declaration-oral-defence-rubric/' | relative_url }}\">AI Declaration & Oral Defence Rubric</a></li></ul><p><em>Good luck — critical coding for a better living!</em></p>"
+			"content": "<h2>Questions?</h2><p>For clarification on deliverables, evaluation criteria, or technical requirements:</p><ul><li>Email: <a href=\"mailto:ruben.vega@udit.es\">ruben.vega@udit.es</a></li><li>Course track: <a href=\"{{ '/tracks/en/feii/' | relative_url }}\">/tracks/en/feii/</a></li><li>GitHub: Course repository (provided in class)</li><li><strong>Rubrics:</strong> <a href=\"{{ '/evaluation/shared/ai-declaration-oral-defence-rubric/' | relative_url }}\">AI Declaration & Oral Defence Rubric</a></li></ul><p><em>Good luck — critical coding for a better living!</em></p>"
 		}
 	]
 }
